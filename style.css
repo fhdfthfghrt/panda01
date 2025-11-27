@@ -386,7 +386,7 @@ h2 {
 }
 
 /* ata 250 theke 300 */
-@media screen and (max-width:300px) {
+@media screen and (max-width:400px) {
     .hero-section{
         flex-direction: column;
         gap: 30px;
